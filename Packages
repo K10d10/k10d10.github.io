@@ -1,0 +1,14 @@
+Package: <eu.kl0d.Monster>
+Version: <1.0>
+Architecture: iphoneos-arm
+Maintainer: k10d10 <k10d10@protonmail.com>
+Depends: 
+Filename: /eu.Kl0d.Monster_1.0
+Size: 858092
+MD5sum: F9BDAC6EEB1D120DBF318F2668DCF41E
+SHA1: 271d6e49ade247499a6519eeba6838e203b92bd9
+SHA256: d4b6adf981e00e2dafeabdc3801691e3f0b88658bc9b44023672880ad30372d3
+Section: Themes
+Description: A monstertheme created with the force
+Author: k10d10 <k10d10@protonmail>
+Name: MonsterEnergy
