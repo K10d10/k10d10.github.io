@@ -1,1 +1,1 @@
-link to add to Cydia --> csources2://addsource?address=https://k10d10.github.io
+link to add to Cydia --> https://cydia.saurik.com/api/share#?source=http:///k10d10.github.io
